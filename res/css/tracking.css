@@ -1,0 +1,186 @@
+html, body {
+	height: 100%;
+	width: 100%;
+    font-family: "Verdana";
+}
+
+#tracking {
+	height: 15%;
+	margin-bottom: 20px;
+}
+
+#map_tracking {
+	width: 1200px;
+	height: 600px;	
+	border: 1px solid #e8e8e8;
+	margin-left: 15px;	
+}
+
+#elevation {
+	width: 1200px;
+	height: 200px;	
+	border: 1px solid #e8e8e8;
+	margin-left: 15px;
+}
+
+#figures {
+	position: absolute;
+    left: 500px;
+    top: 25px;
+    width: 70%;    
+}
+
+#figures-main {
+	margin-bottom: 25px;
+}
+
+.top-frame {
+	border: 1px solid #e8e8e8;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	width: 1200px;
+}
+
+.tracking-card {
+	border: 1px solid #e8e8e8;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin-bottom: 5px;
+	width: 600px;
+	cursor: pointer;
+}
+
+.tracking-id {
+	font-size: 5px;
+	visibility: hidden;
+}
+
+.toolbar {
+	width:600px; 
+	height:12px; 
+	background-color:f8f8f8;	
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;	
+}
+
+.navbar {
+	width: 1200px; 
+	height: 25px; 
+	background-color: #e8e8e8;
+	border: 1px solid #e8e8e8;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.navbar img {
+	cursor: pointer;
+	width: 18px;
+	height: 18px;
+	padding-left: 10px;
+	padding-top: 3px;
+}
+
+.figure {
+	font-size: 28px;	
+}
+
+.unit {
+	font-size: 14px;
+}
+
+.small_unit {
+	font-size: 10px;
+}
+
+.indicator {
+	margin-right: 50px;
+}
+
+.title {
+	font-size: 16px;
+	margin-left: 15px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.page-title {
+	font-size: 20px;
+	margin-left: 5px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.description {
+	font-size: 11px;
+	color: #999;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+
+.boundary {
+	font-size: 10px;
+	color: #999;
+	margin-left: 15px;
+}
+
+.label {
+	white-space: normal;
+	max-width: 100px;
+	line-height: 1.2em;
+	font-size: 10px;
+	color: #999;
+}
+
+.inline-list li {
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	float: none;
+}
+
+.btn-action {
+	width: 10px;
+	height: 10px;
+	margin-left: 3px;
+	cursor: pointer;
+}
+
+table {
+   border: 1px solid black;
+   border-collapse: collapse;
+   width : 400px;
+}
+
+th {
+	background-color: #e8e8e8;
+	border: 1px solid black;
+   	border-collapse: collapse;
+	height : 40px;
+} 
+
+td {
+	border: 1px solid black;
+   	border-collapse: collapse;
+	height : 40px;
+	padding: 10px;
+}
+
+.horizontal-align {
+	float: left;
+}
+
+.loading {
+	border: 1px solid black;	
+	width: 600px;
+	height: 500px;
+	margin-left: 10px;
+	overflow: scroll;
+}
+
+.btn-load {
+	cursor: pointer;
+}

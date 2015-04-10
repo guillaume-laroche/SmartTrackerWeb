@@ -1,0 +1,709 @@
+[{
+     "timestamp": "25-03-2015 18:12:28",
+     "type": "event",
+     "what": "start"
+},{
+     "timestamp": "25-03-2015 18:12:28",
+     "longitude": 7.653498,
+     "latitude": 48.5471417,
+     "type": "location",
+     "accuracy": 37.5
+},{
+     "timestamp": "25-03-2015 18:12:40",
+     "distance": 38.28091812133789,
+     "speed": 4.5,
+     "altitude": 160.39999389648438,
+     "longitude": 7.6531587,
+     "latitude": 48.5468814,
+     "type": "location",
+     "accuracy": 41
+},{
+     "timestamp": "25-03-2015 18:12:52",
+     "distance": 29.217483520507813,
+     "speed": 4.5,
+     "altitude": 160.39999389648438,
+     "longitude": 7.6533453,
+     "latitude": 48.5471131,
+     "type": "location",
+     "accuracy": 31.715999603271484
+},{
+     "timestamp": "25-03-2015 18:13:04",
+     "distance": 91.25154876708984,
+     "speed": 28.8,
+     "altitude": 163.6999969482422,
+     "longitude": 7.6526347,
+     "latitude": 48.5464417,
+     "type": "location",
+     "accuracy": 30
+},{
+     "timestamp": "25-03-2015 18:13:24",
+     "distance": 188.9310302734375,
+     "speed": 18.98551998138428,
+     "altitude": 169.8000030517578,
+     "longitude": 7.6536142,
+     "latitude": 48.5448721,
+     "type": "location",
+     "accuracy": 38
+},{
+     "timestamp": "25-03-2015 18:13:41",
+     "distance": 69.1435317993164,
+     "speed": 40.5,
+     "altitude": 169.10000610351563,
+     "longitude": 7.6534655,
+     "latitude": 48.5442582,
+     "type": "location",
+     "accuracy": 36
+},{
+     "timestamp": "25-03-2015 18:13:53",
+     "distance": 216.52537536621094,
+     "speed": 55.82902450561524,
+     "altitude": 162.60000610351563,
+     "longitude": 7.6517643,
+     "latitude": 48.5426722,
+     "type": "location",
+     "accuracy": 35
+},{
+     "timestamp": "25-03-2015 18:14:03",
+     "distance": 130.14710998535156,
+     "speed": 46.800000000000004,
+     "altitude": 161.1999969482422,
+     "longitude": 7.653046,
+     "latitude": 48.5418688,
+     "type": "location",
+     "accuracy": 33
+},{
+     "timestamp": "25-03-2015 18:14:23",
+     "distance": 367.0826416015625,
+     "speed": 90.97126007080078,
+     "altitude": 153.89999389648438,
+     "longitude": 7.656383,
+     "latitude": 48.539422,
+     "type": "location",
+     "accuracy": 33
+},{
+     "timestamp": "25-03-2015 18:14:33",
+     "distance": 271.2105407714844,
+     "speed": 99.9,
+     "altitude": 156.1999969482422,
+     "longitude": 7.65819,
+     "latitude": 48.5372987,
+     "type": "location",
+     "accuracy": 33
+},{
+     "timestamp": "25-03-2015 18:14:53",
+     "distance": 575.869140625,
+     "speed": 101.7,
+     "altitude": 141.8000030517578,
+     "longitude": 7.6611909,
+     "latitude": 48.5325189,
+     "type": "location",
+     "accuracy": 28
+},{
+     "timestamp": "25-03-2015 18:15:03",
+     "distance": 278.549072265625,
+     "speed": 97.2,
+     "altitude": 145.10000610351563,
+     "longitude": 7.6623302,
+     "latitude": 48.530131,
+     "type": "location",
+     "accuracy": 31
+},{
+     "timestamp": "25-03-2015 18:15:23",
+     "distance": 456.5184631347656,
+     "speed": 67.5,
+     "altitude": 156.5,
+     "longitude": 7.664034,
+     "latitude": 48.5261847,
+     "type": "location",
+     "accuracy": 32
+},{
+     "timestamp": "25-03-2015 18:15:43",
+     "distance": 398.6289978027344,
+     "speed": 87.3,
+     "altitude": 167.89999389648438,
+     "longitude": 7.659144,
+     "latitude": 48.5246681,
+     "type": "location",
+     "accuracy": 29
+},{
+     "timestamp": "25-03-2015 18:16:03",
+     "distance": 455.7410583496094,
+     "speed": 88.21836776733399,
+     "altitude": 163.8000030517578,
+     "longitude": 7.6529769,
+     "latitude": 48.5245454,
+     "type": "location",
+     "accuracy": 27
+},{
+     "timestamp": "25-03-2015 18:16:23",
+     "distance": 518.3776245117188,
+     "speed": 91.8,
+     "altitude": 172.60000610351563,
+     "longitude": 7.6460724,
+     "latitude": 48.5237112,
+     "type": "location",
+     "accuracy": 30
+},{
+     "timestamp": "25-03-2015 18:16:42",
+     "distance": 491.7505187988281,
+     "speed": 95.4169807434082,
+     "altitude": 171.39999389648438,
+     "longitude": 7.6396435,
+     "latitude": 48.5225631,
+     "type": "location",
+     "accuracy": 26
+},{
+     "timestamp": "25-03-2015 18:16:53",
+     "distance": 281.3518981933594,
+     "speed": 93.60000000000001,
+     "altitude": 171.1999969482422,
+     "longitude": 7.6359131,
+     "latitude": 48.5220524,
+     "type": "location",
+     "accuracy": 35
+},{
+     "timestamp": "25-03-2015 18:17:04",
+     "distance": 254.3459014892578,
+     "speed": 90,
+     "altitude": 173.39999389648438,
+     "longitude": 7.63247,
+     "latitude": 48.5220363,
+     "type": "location",
+     "accuracy": 34
+},{
+     "timestamp": "25-03-2015 18:17:25",
+     "distance": 585.0392456054688,
+     "speed": 103.5,
+     "altitude": 172.60000610351563,
+     "longitude": 7.6248009,
+     "latitude": 48.5233501,
+     "type": "location",
+     "accuracy": 38
+},{
+     "timestamp": "25-03-2015 18:18:05",
+     "distance": 1147.564453125,
+     "speed": 101.71593017578125,
+     "altitude": 172.3000030517578,
+     "longitude": 7.6093997,
+     "latitude": 48.5247049,
+     "type": "location",
+     "accuracy": 38
+},{
+     "timestamp": "25-03-2015 18:18:16",
+     "distance": 234.56333923339844,
+     "speed": 92.7,
+     "altitude": 174.3000030517578,
+     "longitude": 7.6062295,
+     "latitude": 48.5248273,
+     "type": "location",
+     "accuracy": 35
+},{
+     "timestamp": "25-03-2015 18:18:27",
+     "distance": 227.67535400390625,
+     "speed": 77.4,
+     "altitude": 180,
+     "longitude": 7.6031488,
+     "latitude": 48.5247613,
+     "type": "location",
+     "accuracy": 31
+},{
+     "timestamp": "25-03-2015 18:18:44",
+     "distance": 495.19097900390625,
+     "speed": 101.7,
+     "altitude": 178.10000610351563,
+     "longitude": 7.5965908,
+     "latitude": 48.5238373,
+     "type": "location",
+     "accuracy": 32
+},{
+     "timestamp": "25-03-2015 18:19:04",
+     "distance": 589.9174194335938,
+     "speed": 104.4,
+     "altitude": 177.60000610351563,
+     "longitude": 7.5896701,
+     "latitude": 48.5211901,
+     "type": "location",
+     "accuracy": 33
+},{
+     "timestamp": "25-03-2015 18:19:24",
+     "distance": 543.2349243164063,
+     "speed": 99,
+     "altitude": 173.6999969482422,
+     "longitude": 7.5825028,
+     "latitude": 48.5200969,
+     "type": "location",
+     "accuracy": 33
+},{
+     "timestamp": "25-03-2015 18:19:45",
+     "distance": 540.673828125,
+     "speed": 108.91487274169923,
+     "altitude": 177.8000030517578,
+     "longitude": 7.5786754,
+     "latitude": 48.5159526,
+     "type": "location",
+     "accuracy": 40
+},{
+     "timestamp": "25-03-2015 18:20:03",
+     "distance": 581.2523803710938,
+     "speed": 112.51439895629883,
+     "altitude": 180.10000610351563,
+     "longitude": 7.5812459,
+     "latitude": 48.5110124,
+     "type": "location",
+     "accuracy": 26
+},{
+     "timestamp": "25-03-2015 18:20:14",
+     "distance": 286.58135986328125,
+     "speed": 110.7,
+     "altitude": 181.8000030517578,
+     "longitude": 7.5800261,
+     "latitude": 48.508566,
+     "type": "location",
+     "accuracy": 29
+},{
+     "timestamp": "25-03-2015 18:20:25",
+     "distance": 338.213134765625,
+     "speed": 110.7,
+     "altitude": 180.10000610351563,
+     "longitude": 7.5774028,
+     "latitude": 48.5060736,
+     "type": "location",
+     "accuracy": 29
+},{
+     "timestamp": "25-03-2015 18:20:43",
+     "distance": 610.7517700195313,
+     "speed": 114.35667572021485,
+     "altitude": 185.5,
+     "longitude": 7.5709805,
+     "latitude": 48.5026164,
+     "type": "location",
+     "accuracy": 27
+},{
+     "timestamp": "25-03-2015 18:20:54",
+     "distance": 317.02984619140625,
+     "speed": 113.4142822265625,
+     "altitude": 181.3000030517578,
+     "longitude": 7.5672998,
+     "latitude": 48.5011518,
+     "type": "location",
+     "accuracy": 29
+},{
+     "timestamp": "25-03-2015 18:21:14",
+     "distance": 644.664794921875,
+     "speed": 115.2,
+     "altitude": 178.10000610351563,
+     "longitude": 7.5607442,
+     "latitude": 48.4973272,
+     "type": "location",
+     "accuracy": 29
+},{
+     "timestamp": "25-03-2015 18:21:25",
+     "distance": 333.642578125,
+     "speed": 111.61451568603516,
+     "altitude": 174.3000030517578,
+     "longitude": 7.5582184,
+     "latitude": 48.4948404,
+     "type": "location",
+     "accuracy": 28
+},{
+     "timestamp": "25-03-2015 18:21:45",
+     "distance": 623.6492309570313,
+     "speed": 114.35667572021485,
+     "altitude": 165.3000030517578,
+     "longitude": 7.5548789,
+     "latitude": 48.48969,
+     "type": "location",
+     "accuracy": 30
+},{
+     "timestamp": "25-03-2015 18:22:04",
+     "distance": 594.2132568359375,
+     "speed": 111.60000000000001,
+     "altitude": 160.60000610351563,
+     "longitude": 7.5509288,
+     "latitude": 48.485036,
+     "type": "location",
+     "accuracy": 29
+},{
+     "timestamp": "25-03-2015 18:22:15",
+     "distance": 338.879638671875,
+     "speed": 111.60000000000001,
+     "altitude": 160.6999969482422,
+     "longitude": 7.5485643,
+     "latitude": 48.4824252,
+     "type": "location",
+     "accuracy": 30
+},{
+     "timestamp": "25-03-2015 18:22:35",
+     "distance": 617.4046630859375,
+     "speed": 111.60000000000001,
+     "altitude": 165,
+     "longitude": 7.5442795,
+     "latitude": 48.4776595,
+     "type": "location",
+     "accuracy": 26
+},{
+     "timestamp": "25-03-2015 18:23:13",
+     "distance": 1144.2669677734375,
+     "speed": 112.5,
+     "altitude": 140.60000610351563,
+     "longitude": 7.5353875,
+     "latitude": 48.4692375,
+     "type": "location",
+     "accuracy": 54
+},{
+     "timestamp": "25-03-2015 18:23:29",
+     "distance": 539.7482299804688,
+     "speed": 113.4,
+     "altitude": 199.5,
+     "longitude": 7.5308571,
+     "latitude": 48.4654318,
+     "type": "location",
+     "accuracy": 41
+},{
+     "timestamp": "25-03-2015 18:23:47",
+     "distance": 575.6856689453125,
+     "speed": 113.45712890625,
+     "altitude": 192.39999389648438,
+     "longitude": 7.5256211,
+     "latitude": 48.4616009,
+     "type": "location",
+     "accuracy": 24
+},{
+     "timestamp": "25-03-2015 18:24:06",
+     "distance": 520.2877807617188,
+     "speed": 99,
+     "altitude": 195.39999389648438,
+     "longitude": 7.5197107,
+     "latitude": 48.4590634,
+     "type": "location",
+     "accuracy": 12
+},{
+     "timestamp": "25-03-2015 18:24:17",
+     "distance": 278.477294921875,
+     "speed": 95.4169807434082,
+     "altitude": 204.39999389648438,
+     "longitude": 7.5162594,
+     "latitude": 48.4580624,
+     "type": "location",
+     "accuracy": 15
+},{
+     "timestamp": "25-03-2015 18:24:36",
+     "distance": 573.6480102539063,
+     "speed": 113.4142822265625,
+     "altitude": 212.60000610351563,
+     "longitude": 7.5101721,
+     "latitude": 48.4548658,
+     "type": "location",
+     "accuracy": 17
+},{
+     "timestamp": "25-03-2015 18:24:54",
+     "distance": 604.26220703125,
+     "speed": 114.3,
+     "altitude": 214.3000030517578,
+     "longitude": 7.5060904,
+     "latitude": 48.4501587,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:25:05",
+     "distance": 305.2559814453125,
+     "speed": 108.9,
+     "altitude": 207.10000610351563,
+     "longitude": 7.5047152,
+     "latitude": 48.4475705,
+     "type": "location",
+     "accuracy": 7
+},{
+     "timestamp": "25-03-2015 18:25:16",
+     "distance": 325.6551208496094,
+     "speed": 105.3,
+     "altitude": 210.1999969482422,
+     "longitude": 7.5033682,
+     "latitude": 48.4447824,
+     "type": "location",
+     "accuracy": 19
+},{
+     "timestamp": "25-03-2015 18:25:27",
+     "distance": 321.2987060546875,
+     "speed": 107.10000000000001,
+     "altitude": 200.8000030517578,
+     "longitude": 7.5019229,
+     "latitude": 48.4420577,
+     "type": "location",
+     "accuracy": 15
+},{
+     "timestamp": "25-03-2015 18:25:44",
+     "distance": 503.5718994140625,
+     "speed": 93.61730346679688,
+     "altitude": 207.10000610351563,
+     "longitude": 7.499533,
+     "latitude": 48.4378175,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:25:54",
+     "distance": 290.34649658203125,
+     "speed": 110.7,
+     "altitude": 206.89999389648438,
+     "longitude": 7.4979563,
+     "latitude": 48.4354265,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:26:05",
+     "distance": 322.6209411621094,
+     "speed": 116.15579681396484,
+     "altitude": 206.3000030517578,
+     "longitude": 7.4960728,
+     "latitude": 48.4328099,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:26:15",
+     "distance": 326.8484802246094,
+     "speed": 119.7,
+     "altitude": 200.10000610351563,
+     "longitude": 7.4940519,
+     "latitude": 48.4301963,
+     "type": "location",
+     "accuracy": 9
+},{
+     "timestamp": "25-03-2015 18:26:35",
+     "distance": 665.1524047851563,
+     "speed": 117.91373291015626,
+     "altitude": 213,
+     "longitude": 7.4896103,
+     "latitude": 48.4249961,
+     "type": "location",
+     "accuracy": 6
+},{
+     "timestamp": "25-03-2015 18:26:54",
+     "distance": 656.579345703125,
+     "speed": 116.10000000000001,
+     "altitude": 221.60000610351563,
+     "longitude": 7.48532,
+     "latitude": 48.419828,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:27:05",
+     "distance": 318.7457275390625,
+     "speed": 115.2140625,
+     "altitude": 219.6999969482422,
+     "longitude": 7.4837773,
+     "latitude": 48.4171518,
+     "type": "location",
+     "accuracy": 7
+},{
+     "timestamp": "25-03-2015 18:27:15",
+     "distance": 304.7713623046875,
+     "speed": 108.91487274169923,
+     "altitude": 218.5,
+     "longitude": 7.4827436,
+     "latitude": 48.4144988,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:27:26",
+     "distance": 320.00726318359375,
+     "speed": 100.81606750488281,
+     "altitude": 226.5,
+     "longitude": 7.4821179,
+     "latitude": 48.4116513,
+     "type": "location",
+     "accuracy": 15
+},{
+     "timestamp": "25-03-2015 18:27:44",
+     "distance": 486.9303894042969,
+     "speed": 90.9,
+     "altitude": 221.1999969482422,
+     "longitude": 7.4806481,
+     "latitude": 48.4073831,
+     "type": "location",
+     "accuracy": 7
+},{
+     "timestamp": "25-03-2015 18:27:56",
+     "distance": 280.66607666015625,
+     "speed": 90.01799697875977,
+     "altitude": 225.39999389648438,
+     "longitude": 7.4794987,
+     "latitude": 48.4049779,
+     "type": "location",
+     "accuracy": 6
+},{
+     "timestamp": "25-03-2015 18:28:25",
+     "distance": 699.6990356445313,
+     "speed": 88.21836776733399,
+     "altitude": 220.3000030517578,
+     "longitude": 7.4762335,
+     "latitude": 48.3990731,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:28:40",
+     "distance": 224.51402282714844,
+     "speed": 68.42368240356446,
+     "altitude": 228.6999969482422,
+     "longitude": 7.4753304,
+     "latitude": 48.3971457,
+     "type": "location",
+     "accuracy": 8
+},{
+     "timestamp": "25-03-2015 18:28:55",
+     "distance": 125.0892562866211,
+     "speed": 45.035987091064456,
+     "altitude": 237.10000610351563,
+     "longitude": 7.4755663,
+     "latitude": 48.3960318,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:29:16",
+     "distance": 247.71043395996094,
+     "speed": 69.32337341308595,
+     "altitude": 237.10000610351563,
+     "longitude": 7.4786715,
+     "latitude": 48.3968602,
+     "type": "location",
+     "accuracy": 13
+},{
+     "timestamp": "25-03-2015 18:29:36",
+     "distance": 386.7546691894531,
+     "speed": 80.12022171020509,
+     "altitude": 232.60000610351563,
+     "longitude": 7.4830207,
+     "latitude": 48.398786,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:29:56",
+     "distance": 413.4788513183594,
+     "speed": 68.4,
+     "altitude": 230.6999969482422,
+     "longitude": 7.4885944,
+     "latitude": 48.3985615,
+     "type": "location",
+     "accuracy": 9
+},{
+     "timestamp": "25-03-2015 18:30:15",
+     "distance": 256.2646179199219,
+     "speed": 38.74183731079102,
+     "altitude": 231.89999389648438,
+     "longitude": 7.4920471,
+     "latitude": 48.3984044,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:30:26",
+     "distance": 120.64898681640625,
+     "speed": 39.6,
+     "altitude": 229.3000030517578,
+     "longitude": 7.4928652,
+     "latitude": 48.3974661,
+     "type": "location",
+     "accuracy": 9
+},{
+     "timestamp": "25-03-2015 18:30:46",
+     "distance": 224.5301513671875,
+     "speed": 39.6,
+     "altitude": 228.10000610351563,
+     "longitude": 7.4926113,
+     "latitude": 48.395454,
+     "type": "location",
+     "accuracy": 18
+},{
+     "timestamp": "25-03-2015 18:31:06",
+     "distance": 336.08038330078125,
+     "speed": 72.02249450683594,
+     "altitude": 229.10000610351563,
+     "longitude": 7.491348,
+     "latitude": 48.3925511,
+     "type": "location",
+     "accuracy": 13
+},{
+     "timestamp": "25-03-2015 18:31:25",
+     "distance": 385.1784362792969,
+     "speed": 70.2,
+     "altitude": 223.8000030517578,
+     "longitude": 7.4911316,
+     "latitude": 48.3890902,
+     "type": "location",
+     "accuracy": 7
+},{
+     "timestamp": "25-03-2015 18:31:36",
+     "distance": 206.4620361328125,
+     "speed": 69.3,
+     "altitude": 225.10000610351563,
+     "longitude": 7.4895985,
+     "latitude": 48.3875395,
+     "type": "location",
+     "accuracy": 13
+},{
+     "timestamp": "25-03-2015 18:31:55",
+     "distance": 360.7608947753906,
+     "speed": 67.5,
+     "altitude": 224.89999389648438,
+     "longitude": 7.4887029,
+     "latitude": 48.3843505,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:32:05",
+     "distance": 177.63226318359375,
+     "speed": 62.1,
+     "altitude": 224.8000030517578,
+     "longitude": 7.4879841,
+     "latitude": 48.3828265,
+     "type": "location",
+     "accuracy": 5
+},{
+     "timestamp": "25-03-2015 18:32:26",
+     "distance": 220.536376953125,
+     "speed": 26.161995506286623,
+     "altitude": 226.3000030517578,
+     "longitude": 7.4883095,
+     "latitude": 48.3808551,
+     "type": "location",
+     "accuracy": 12
+},{
+     "timestamp": "25-03-2015 18:32:45",
+     "distance": 198.1265869140625,
+     "speed": 37.800000000000004,
+     "altitude": 222.60000610351563,
+     "longitude": 7.490971,
+     "latitude": 48.3810319,
+     "type": "location",
+     "accuracy": 9
+},{
+     "timestamp": "25-03-2015 18:33:24",
+     "distance": 239.24282836914063,
+     "speed": 8.29758996963501,
+     "altitude": 243.3000030517578,
+     "longitude": 7.4940763,
+     "latitude": 48.3804404,
+     "type": "location",
+     "accuracy": 7
+},{
+     "timestamp": "25-03-2015 18:33:36",
+     "distance": 3.883500099182129,
+     "speed": 0,
+     "altitude": 231.39999389648438,
+     "longitude": 7.4940906,
+     "latitude": 48.380474,
+     "type": "location",
+     "accuracy": 18
+},{
+     "timestamp": "25-03-2015 18:33:54",
+     "distance": 160.23228454589844,
+     "speed": 0,
+     "altitude": 231.39999389648438,
+     "longitude": 7.4921934,
+     "latitude": 48.3811662,
+     "type": "location",
+     "accuracy": 179.06900024414063
+}
+,{
+     "timestamp": "25-03-2015 18:33:56",
+     "type": "event",
+     "what": "finish"
+}]
