@@ -111,7 +111,7 @@
                                             TRK_ID,
                                             TRK_TITLE, 
                                             TRK_DESCRIPTION,
-                                            ROUND(getTotalDistance(" . $tracking_id . ") / 1000, 2) AS DISTANCE,
+                                            ROUND(getTotalDistance(" . $tracking_id . "), 2) AS DISTANCE,
                                             getDuration(" . $tracking_id . ") AS DURATION, 
                                             getMoveDuration(" . $tracking_id . ") AS MOVE_DURATION, 
                                             getStart(" . $tracking_id . ") AS START,
